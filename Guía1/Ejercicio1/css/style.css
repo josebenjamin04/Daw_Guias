@@ -1,0 +1,36 @@
+header{
+    background-color: bisque;
+}
+nav{
+    background-color: burlywood;
+    margin-right: 70%;
+    padding-bottom:27%;
+    
+}
+h1{
+    text-align: center;
+}
+article{
+    display:flex;
+    background-color: cadetblue;
+    margin-left: 30%;
+    float: left;
+}
+#primero{
+    margin-top: -31.5em;
+    padding-bottom: 8%;
+    padding-right: 62%;
+}
+#segundo{
+    margin-top: -20em;
+    padding-bottom: 8%;
+    padding-right: 62%;
+}
+#tercero{
+    margin-top: -9em;
+    padding-bottom: 3%;
+    padding-right: 62%;
+}
+footer{
+    background-color:darkgoldenrod;
+}
